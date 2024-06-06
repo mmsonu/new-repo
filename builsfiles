@@ -1,0 +1,8 @@
+pom.xml: For Maven projects, this file defines project dependencies, plugins, and other configurations.
+
+build.gradle: For Gradle projects, this file contains project dependencies, plugins, and other configurations.
+
+settings.gradle: For multi-module Gradle projects, this file specifies the modules included in the build.
+
+
+

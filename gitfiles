@@ -1,0 +1,3 @@
+.gitignore: Specifies files and directories that should be ignored by Git.
+.gitattributes: Configures attributes for Git, such as line ending normalization.
+

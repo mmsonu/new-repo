@@ -1,0 +1,3 @@
+.project, .classpath, .settings/: Eclipse IDE-specific files.
+.idea/, *.iml: IntelliJ IDEA-specific files.
+

@@ -1,0 +1,3 @@
+JUnit: Test classes located in src/test/java for unit testing.
+Mocking: Test doubles and mocks, often configured using frameworks like Mockito.
+

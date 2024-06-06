@@ -1,0 +1,5 @@
+.editorconfig: Editor configuration file for maintaining consistent coding styles.
+.checkstyle.xml: Configuration file for Checkstyle, a code style enforcement tool.
+.pmd.xml: Configuration file for PMD, a source code analyzer.
+.findbugs.xml: Configuration file for FindBugs, a static analysis tool.
+
